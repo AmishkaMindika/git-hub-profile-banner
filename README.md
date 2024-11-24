@@ -1,2 +1,2 @@
 # git-hub-profile-banner
-<img alt="coding" src="C:\Users\TUF\Pictures\git hub banner">
+<img align="fit" alt="coding" width="400" src="C:\Users\TUF\Pictures\git hub banner">
